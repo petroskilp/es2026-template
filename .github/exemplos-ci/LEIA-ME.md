@@ -1,6 +1,6 @@
 # Como ativar o CI
 
-O CI precisa executar **testes e lint** e falhar quando um deles falhar. Escolham uma linguagem permitida, sigam a seção dela e confirmem o resultado na aba **Actions** do GitHub. Depois, façam um teste de propósito errado em uma branch: o CI precisa ficar vermelho.
+O CI precisa executar **testes e lint** e falhar quando um deles falhar. Escolham **Node.js ou Java**, as linguagens permitidas no projeto, sigam a seção escolhida e confirmem o resultado na aba **Actions** do GitHub. Depois, façam um teste de propósito errado em uma branch: o CI precisa ficar vermelho.
 
 As regras de lint abaixo são só um ponto de partida. Limites como complexidade e tamanho de função são decisão do grupo e devem constar nos RNFs.
 

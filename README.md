@@ -4,13 +4,19 @@
 >
 > Agentes são a ferramenta do processo, não o produto. Vocês constroem um sistema pequeno e são avaliados principalmente por como aplicam engenharia de software e controlam os agentes.
 
-**Entrega:** até 04/12/2026, no canal indicado pelo professor.
+**Grupos:** 4 a 5 pessoas. **Tema:** livre.
+
+**Entrega e prova:** 04/12/2026. A entrega é este repositório: enviem o link no Classroom.
+
+**Defesa oral:** fora do encontro de 04/12, em data a ser divulgada no Classroom.
+
+**Prova individual (AE):** sem IA, vocês vão auditar um pull request feito sobre uma cópia do código do grupo, tirada em 03/12 às 12h00 (horário de Brasília), com defeitos plantados. O que estiver na `main` nesse horário é o que entra na prova. Quem acompanha o código do grupo chega preparado.
 
 ## Comece aqui
 1. Criem o repositório do grupo com **Use this template** e deem acesso a todo o grupo e ao professor.
-2. Cada integrante ativa o **Copilot Student** e localiza o **painel de uso** de créditos.
+2. Cada integrante ativa o **Copilot Student** com o e-mail da UEPG (extrato de matrícula, se solicitado) e localiza o **painel de uso** de créditos.
 3. Escrevam, **sem usar o agente**: `specs/requisitos.md`, `specs/backlog.md` e o primeiro ADR em `docs/adr/`.
-4. Escolham a linguagem e ativem o CI: sigam `.github/exemplos-ci/LEIA-ME.md`.
+4. Escolham **Node.js ou Java** e ativem o CI: sigam `.github/exemplos-ci/LEIA-ME.md`.
 5. Escrevam `docs/plano-de-teste.md`, `docs/convencao-versionamento.md`, `.github/copilot-instructions.md` e os agentes em `.github/agents/`.
 6. Só então peçam a primeira história ao agente, em uma branch própria e com o teste escrito antes.
 
