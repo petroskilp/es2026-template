@@ -8,8 +8,6 @@
 
 **Entrega e prova:** 04/12/2026. A entrega é este repositório: enviem o link no Classroom.
 
-**Defesa oral:** fora do encontro de 04/12, em data a ser divulgada no Classroom.
-
 **Prova individual (AE):** sem IA, vocês vão auditar um pull request feito sobre uma cópia do código do grupo, tirada em 03/12 às 12h00 (horário de Brasília), com defeitos plantados. O que estiver na `main` nesse horário é o que entra na prova. Quem acompanha o código do grupo chega preparado.
 
 ## Comece aqui
