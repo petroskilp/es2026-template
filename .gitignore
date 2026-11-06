@@ -1,0 +1,13 @@
+# Segredos
+.env
+
+# Node.js
+node_modules/
+coverage/
+
+# Java
+target/
+
+# Geral
+*.log
+.DS_Store
